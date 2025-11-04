@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Alex Lopez
+Automotive electrical specialist transitioning into Cloud & DevOps. I build reliable, automated infrastructure and CI/CD pipelines.
 
-<!--
-**alexlopez-dev/alexlopez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Core Stack
+Linux • Docker • Kubernetes • Terraform • Ansible • GitHub Actions • AWS • Python
 
-Here are some ideas to get you started:
+## 🔥 Featured Work
+- **Homelab IaC (Terraform)** — Modular VPC/EC2/security groups with remote state.
+- **Containerized App + CI/CD** — Docker Compose; GitHub Actions pipeline from test → build → deploy.
+- **Server Hardening (Ansible)** — Idempotent playbooks for users, SSH, firewall, and CIS basics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Links
+- Portfolio: [raw10lab.com](https://raw10lab.com)
+- LinkedIn: [linkedin.com/in/alexlopez-dev](https://linkedin.com/in/alexlopez-dev)
+- GitHub Projects: [github.com/alexlopez-dev?tab=repositories](https://github.com/alexlopez-dev?tab=repositories)
