@@ -11,5 +11,5 @@ Linux • Docker • Kubernetes • Terraform • Ansible • GitHub Actions •
 
 ## 🌐 Links
 - Portfolio: [raw10lab.com](https://raw10lab.com)
-- LinkedIn: [linkedin.com/in/alexlopez-dev](https://linkedin.com/in/alexlopez-dev)
+- LinkedIn: (https://www.linkedin.com/in/alex-lopez-dev/)
 - GitHub Projects: [github.com/alexlopez-dev?tab=repositories](https://github.com/alexlopez-dev?tab=repositories)
